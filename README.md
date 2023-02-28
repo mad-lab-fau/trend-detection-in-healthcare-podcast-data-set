@@ -1,1 +1,21 @@
-# trend-detection-in-healthcare-podcast-data-set
+**Description**
+
+Code relative to "Artificial Intelligence Trend Analysis on Healthcare Podcasts using Topic Modelling and Sentiment Analysis - A Data-Driven Approach" *Philipp Dumbach, Leo Schwinn, Tim Löhr, Phi Long Do, Björn M. Eskofier* which is submitted as *Research Article* to the Journal of Healthcare Informatics Research (https://www.springer.com/journal/41666/).
+
+This repository contains the code for the crawlers regarding the 29 healthcare podcasts that were selected as data sources in this research study.
+
+**Further Information**
+
+For more information regarding the data crawling procedure regarding the podcast data sources and the transcribed data set please contact the corresponding author.
+
+**Affiliation**
+
+Machine Learning and Data Analytics Lab
+
+Friedrich-Alexander-Universität Erlangen-Nürnberg
+
+Carl-Thiersch-Str. 2b
+
+91054 Erlangen
+
+Mail (corresponding author): philipp.dumbach@fau.de
