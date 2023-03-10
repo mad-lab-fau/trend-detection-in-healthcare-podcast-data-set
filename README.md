@@ -10,9 +10,9 @@ For more information regarding the data crawling procedure regarding the podcast
 
 **Affiliation**
 
-Machine Learning and Data Analytics Lab
-
 Friedrich-Alexander-Universität Erlangen-Nürnberg
+
+Machine Learning and Data Analytics Lab
 
 Department Artificial Intelligence in Biomedical Engineering
 
